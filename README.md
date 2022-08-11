@@ -1,0 +1,2 @@
+# ETL-BrazilianNetworks
+ETL process of Brazilian telecommunication networks and broadband, data analysis performed in python, apache spark, SQL and big query, presentation of relevant data and insights. Data analyzed from 2010 to 2021 totaling more than 40 million lines in various services Loading of datasets loaded on Google cloud platform, and also in relational (Postgresql) and non-relational (MongoDB) databases
